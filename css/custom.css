@@ -1,0 +1,27 @@
+.inputwidth{
+	width: 100%;
+}
+em{
+	color: red;
+}
+.rewrap{
+	background-color: #ffffff;
+	padding: 1%;
+}
+
+table.mproducts {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.mproducts td, 
+.mproducts th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.mproducts tr:nth-child(even) {
+  background-color: #dddddd;
+}
